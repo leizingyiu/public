@@ -1,1 +1,506 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="wechatQr" x="0px" y="0px" viewBox="0 0 468 468" style="enable-background:new 0 0 468 468" xml:space="preserve"><desc/><g id="wechatQrPath"><path d="M156,24h-12v12h-24V24h-12V12h48V24L156,24z M444,12h12v84h-84V12H444L444,12z M444,36V24h-60v60h60V36L444,36z M252,24h-12  v12h12V24L252,24z M228,36V24h-12V12h-12v36h36V36H228L228,36z M300,48V36h36v12h-12v12h12v24h12v24h12V72h-12V60h12V24h-12V12h-36  v12h-24v12h-24v12h12v12h12V48H300L300,48z M408,36h-12v36h36V36H408L408,36z M108,48v12h12V48H108L108,48z M180,60V48h12V36h-12V24  h-24v12h-12v12h12v12h-12v12h24V60H180L180,60z M60,72h12V36H36v36H60L60,72z M216,60v12h12V60H216L216,60z M264,72V60h-12V48h-12  v24H264L264,72z M132,72V60h-12v24h12V72L132,72z M276,84V72h-12v12H276L276,84z M300,72h12v12h12V60h-36v24h12V72L300,72z M36,96  H12V12h84v84H36L36,96z M24,72v12h60V24H24V72L24,72z M120,84h-12v12h12V84L120,84z M144,96V84h-12v12H144L144,96z M216,96V84h-12  v12H216L216,96z M252,96h12V84h-12V96L252,96z M288,96V84h-12v12H288L288,96z M324,96h12V84h-12V96L324,96z M228,108v12h12V72h-12  v24h-12v12H228L228,108z M36,120h12v-12H36V120L36,120z M84,120h12v-12H60v24h12v-12H84L84,120z M108,108v12h12v-12H108L108,108z   M204,108v12h12v-12H204L204,108z M336,108v12h12v-12H336L336,108z M372,120v-12h-12v12H372L372,120z M444,120h-12v12h12v12h-12v12  h12v12h-24v-24h-12v-12h-36v12h12v12h-12v36h36v-12h-24v-12h12v-12h12v24h12v12h12v12h12v-12h12v-84h-12V120L444,120z M348,132h12  v-12h-12V132L348,132z M420,120v-12h-12v24h12V120L420,120z M48,132H36v12h12V132L48,132z M180,144v-12h-24v12H180L180,144z   M192,144v12h24v12h24v-12h-12v-36h-12v24h-12v-24h-12v-12h12V96h-12V84h12V72h-12V60h-12v12h-12v12h12v12h-12V84h-12v36h24v12h12  V144L192,144z M60,156v-12H48v12H60L60,156z M156,144h-12v12h12V144L156,144z M348,144v12h12v24h-24v-24h-12v12h-12v12h12v12h12v12  h-12v48h-24v12h-36v-12h-24v-24h-12v36h-24v-12h-12v12h12v24h12v-12h12v-12h12v12h12v12h12v-12h24v12h12v12h12v-12h12v36h-12v12h84  v12h24v12h-12v36h12v12h-24v12h12v12h12v12h-12v12h-12v-24h-12v-24h-12v12h-12v-12h-12v-12h-12v12h-12v12h-12v-12h-12v12h-12v-36h12  v12h12v-12h24v-12h12v-12h-12v-12h-12v12h-12v-12h-12v-12h-24v-12h-12v-12h12v-12h-48v12h24v36h12v12h24v-12h12v12h12v24h-12v-12  h-48v-12h-12v-36h-12v12h-12v-12h-12v12h-12v-48h-24v12h-12v-24h12v-12h12v-12h-24v-60h-12v24h-36v12h36v24h-24v12h12v12h-12v36h-12  v-12H96v-12h12v-12H96v-12h12v-24H84v-12h12v-12H84v12H72v24h24v12H84v12h12v12H72v12H24v-12H12v-12h24v12h12v-12h24v-12H24v-12h12  v-12H24v12H12v-24h12v-12h12v-12h24v-12h12v-12H60v12H48v-12H24v24H12v-72h12v12h12v12h12v12h12v-12h12v12h12v12h12v-12H84v-12h12  v-12H72v-12h48v-12h24v12h-12v24h-12v-12h-12v12h12v12h-12v24H84v12h36v-36h12v-12h12v12h12v12h12v24h12v-36h36v12h12v12h-36v12h12  v12h24v-24h12v-12h12v12h12v-12h12v-48h-12v36h-12v-24h-12v-24h12v-12h12v12h12v-12h12V96h12V84h12v12h12v48H348L348,144z M60,240  v-24H48v24H60L60,240z M396,372v-12h-36v36h36V372L396,372z M216,300h-12v12h12V300L216,300z M216,240v-12h-24v-12h-12v12h-12v12  H216L216,240z M288,132v12h12v-12h12v-24h-12v24H288L288,132z M264,204h-12v12h12V204L264,204z M312,240v-12h-24v-12h-12v12h-12v12  h12v12h12v-12H312L312,240z M300,192v-12h-12v12H300L300,192z M288,168h12v-12h-12V168L288,168z M360,144v12h12v-12H360L360,144z   M168,156h-12v12h24v-12H168L168,156z M432,216h-12v-12h-12v36h36v12h12v-36H432L432,216z M384,240h-24v-24h12v12h12v-12h12v-12h-48  v48h-12v12h24v24h12v-24h24v-12h-12V240L384,240z M396,252h12v-12h-12V252L396,252z M144,264h12v-12h-12V264L144,264z M432,264h-12  v12h12v24h24v-36H432L432,264z M144,288v-12h-12v12H144L144,288z M300,288h12v-24h-12V288L300,288z M396,276v12h24v-12H396L396,276z   M348,300h12v-12h-12V300L348,300z M12,312h12v-12H12V312L12,312z M84,312h12v-12H84V312L84,312z M336,312h12v-12h-12V312L336,312z   M372,312h-12v12h24v-12h24v-12h-24v-12h-12V312L372,312z M444,324h-12v12h12v12h12v-36h-12V324L444,324z M12,324v12h12v-12H12  L12,324z M84,336h12v-12H60v-12H48v12H36v12H24v12h12v12h12v-12h24v-12H84L84,336z M120,348v-12H96v12H72v12h36v-12H120L120,348z   M180,348h12v-12h-12V348L180,348z M216,348v-12h-12v12H216L216,348z M12,360h12v-12H12V360L12,360z M432,360h12v-12h-12V360  L432,360z M216,360h12v12h-48v24h12v12h-12v36h-12v12h-48v-24h24v-24h12v12h12v-12h-12v-12h-24v12h-24v-24h12v-12h-12v-12h24v-48h12  v-12h12v12h12v12h12v12h-12v12h12v12h12v-12h12v12H216L216,360z M144,336v12h12v-12H144L144,336z M168,384v-12h-36v12H168L168,384z   M72,372h24v84H12v-84H72L72,372z M84,396v-12H24v60h60V396L84,396z M372,384h12v-12h-12V384L372,384z M432,372h-12v12h36v-24h-12  v12H432L432,372z M276,384h-12v12h12V384L276,384z M48,396H36v36h36v-36H48L48,396z M204,396v12h12v-12H204L204,396z M216,420h12  v-12h-12V420L216,420z M264,408v-12h-12v-24h-24v36h24v12h24v-12H264L264,408z M432,420h12v12h12v-24h-36v12H432L432,420z M108,420  v12h12v-12H108L108,420z M276,420v12h12v-12H276L276,420z M336,420v12h-24v12h-12v-12h-12v12h-24v12h60v-12h24v12h36v-12h-12v-12  h-12v-12H336L336,420z M216,432h-12v12h12V432L216,432z M240,432h-12v12h12V432L240,432z M432,444v12h24v-12h-12v-12h-12V444  L432,444z M192,456h12v-12h-24v12H192L192,456z M228,456v-12h-12v12H228L228,456z"/></g></svg>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 600 600"
+    width="100%"
+    height="100%"
+    style="background:#eee;">
+
+    <style>
+        .html-view {
+            display: none;
+        }
+
+        .show-html-view .html-view {
+            display: block;
+        }
+        .show-html-view .small-view {
+            display: none;
+        }
+
+        * {
+            user-select: none;
+            pointer-event: none;
+        }
+
+    </style>
+
+    <defs>
+
+        <clipPath id="clipRounded">
+            <rect width="40" height="40" rx="20" ry="20"/>
+        </clipPath>
+
+        <rect id="small-box-rect" width="10" height="10" rx="2" ry="2"/>
+
+        <linearGradient id="fillGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+            <stop offset="0%" stop-color="white" stop-opacity="0"/>
+            <stop offset="50%" stop-color="white" stop-opacity="0"/>
+            <stop offset="75%" stop-color="white" stop-opacity="0.75"/>
+            <stop offset="100%" stop-color="white" stop-opacity="1"/>
+        </linearGradient>
+
+        <linearGradient id="strokeGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+            <stop offset="50%" stop-color="#BFBFBF" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#BFBFBF" stop-opacity="1"/>
+        </linearGradient>
+
+        <image
+            id="avatarImg"
+            href="https://raw.githubusercontent.com/leizingyiu/public/refs/heads/main/image/animated_yiu.gif"
+            width="40"
+            height="40"
+            clip-path="url(#clipRounded)"/>
+
+        <symbol viewBox="0 0 40 40" id="avatarFallback">
+            <rect width="40" height="40" rx="20" fill="white"/>
+            <path
+                d="M9 16L12 22.5L15 16L11.2028 24.2273C10.7478 25.213 9.971 26.0145 9 26.5M20.5 16V23M20.5 11.5V11M26 16V20.25C26 21.7688 27.2312 23 28.75 23C30.2688 23 31.5 21.7688 31.5 20.25V16"
+                stroke="#64C7F9"
+                fill='none'
+                stroke-width="3"
+                stroke-linecap="round"
+                 stroke-linejoin="round"/>
+        </symbol>
+
+        <symbol id="wechatQrPath" viewBox="0 0 468 468">
+            <path
+                d="M156,24h-12v12h-24V24h-12V12h48V24L156,24z M444,12h12v84h-84V12H444L444,12z M444,36V24h-60v60h60V36L444,36z M252,24h-12  v12h12V24L252,24z M228,36V24h-12V12h-12v36h36V36H228L228,36z M300,48V36h36v12h-12v12h12v24h12v24h12V72h-12V60h12V24h-12V12h-36  v12h-24v12h-24v12h12v12h12V48H300L300,48z M408,36h-12v36h36V36H408L408,36z M108,48v12h12V48H108L108,48z M180,60V48h12V36h-12V24  h-24v12h-12v12h12v12h-12v12h24V60H180L180,60z M60,72h12V36H36v36H60L60,72z M216,60v12h12V60H216L216,60z M264,72V60h-12V48h-12  v24H264L264,72z M132,72V60h-12v24h12V72L132,72z M276,84V72h-12v12H276L276,84z M300,72h12v12h12V60h-36v24h12V72L300,72z M36,96  H12V12h84v84H36L36,96z M24,72v12h60V24H24V72L24,72z M120,84h-12v12h12V84L120,84z M144,96V84h-12v12H144L144,96z M216,96V84h-12  v12H216L216,96z M252,96h12V84h-12V96L252,96z M288,96V84h-12v12H288L288,96z M324,96h12V84h-12V96L324,96z M228,108v12h12V72h-12  v24h-12v12H228L228,108z M36,120h12v-12H36V120L36,120z M84,120h12v-12H60v24h12v-12H84L84,120z M108,108v12h12v-12H108L108,108z   M204,108v12h12v-12H204L204,108z M336,108v12h12v-12H336L336,108z M372,120v-12h-12v12H372L372,120z M444,120h-12v12h12v12h-12v12  h12v12h-24v-24h-12v-12h-36v12h12v12h-12v36h36v-12h-24v-12h12v-12h12v24h12v12h12v12h12v-12h12v-84h-12V120L444,120z M348,132h12  v-12h-12V132L348,132z M420,120v-12h-12v24h12V120L420,120z M48,132H36v12h12V132L48,132z M180,144v-12h-24v12H180L180,144z   M192,144v12h24v12h24v-12h-12v-36h-12v24h-12v-24h-12v-12h12V96h-12V84h12V72h-12V60h-12v12h-12v12h12v12h-12V84h-12v36h24v12h12  V144L192,144z M60,156v-12H48v12H60L60,156z M156,144h-12v12h12V144L156,144z M348,144v12h12v24h-24v-24h-12v12h-12v12h12v12h12v12  h-12v48h-24v12h-36v-12h-24v-24h-12v36h-24v-12h-12v12h12v24h12v-12h12v-12h12v12h12v12h12v-12h24v12h12v12h12v-12h12v36h-12v12h84  v12h24v12h-12v36h12v12h-24v12h12v12h12v12h-12v12h-12v-24h-12v-24h-12v12h-12v-12h-12v-12h-12v12h-12v12h-12v-12h-12v12h-12v-36h12  v12h12v-12h24v-12h12v-12h-12v-12h-12v12h-12v-12h-12v-12h-24v-12h-12v-12h12v-12h-48v12h24v36h12v12h24v-12h12v12h12v24h-12v-12  h-48v-12h-12v-36h-12v12h-12v-12h-12v12h-12v-48h-24v12h-12v-24h12v-12h12v-12h-24v-60h-12v24h-36v12h36v24h-24v12h12v12h-12v36h-12  v-12H96v-12h12v-12H96v-12h12v-24H84v-12h12v-12H84v12H72v24h24v12H84v12h12v12H72v12H24v-12H12v-12h24v12h12v-12h24v-12H24v-12h12  v-12H24v12H12v-24h12v-12h12v-12h24v-12h12v-12H60v12H48v-12H24v24H12v-72h12v12h12v12h12v12h12v-12h12v12h12v12h12v-12H84v-12h12  v-12H72v-12h48v-12h24v12h-12v24h-12v-12h-12v12h12v12h-12v24H84v12h36v-36h12v-12h12v12h12v12h12v24h12v-36h36v12h12v12h-36v12h12  v12h24v-24h12v-12h12v12h12v-12h12v-48h-12v36h-12v-24h-12v-24h12v-12h12v12h12v-12h12V96h12V84h12v12h12v48H348L348,144z M60,240  v-24H48v24H60L60,240z M396,372v-12h-36v36h36V372L396,372z M216,300h-12v12h12V300L216,300z M216,240v-12h-24v-12h-12v12h-12v12  H216L216,240z M288,132v12h12v-12h12v-24h-12v24H288L288,132z M264,204h-12v12h12V204L264,204z M312,240v-12h-24v-12h-12v12h-12v12  h12v12h12v-12H312L312,240z M300,192v-12h-12v12H300L300,192z M288,168h12v-12h-12V168L288,168z M360,144v12h12v-12H360L360,144z   M168,156h-12v12h24v-12H168L168,156z M432,216h-12v-12h-12v36h36v12h12v-36H432L432,216z M384,240h-24v-24h12v12h12v-12h12v-12h-48  v48h-12v12h24v24h12v-24h24v-12h-12V240L384,240z M396,252h12v-12h-12V252L396,252z M144,264h12v-12h-12V264L144,264z M432,264h-12  v12h12v24h24v-36H432L432,264z M144,288v-12h-12v12H144L144,288z M300,288h12v-24h-12V288L300,288z M396,276v12h24v-12H396L396,276z   M348,300h12v-12h-12V300L348,300z M12,312h12v-12H12V312L12,312z M84,312h12v-12H84V312L84,312z M336,312h12v-12h-12V312L336,312z   M372,312h-12v12h24v-12h24v-12h-24v-12h-12V312L372,312z M444,324h-12v12h12v12h12v-36h-12V324L444,324z M12,324v12h12v-12H12  L12,324z M84,336h12v-12H60v-12H48v12H36v12H24v12h12v12h12v-12h24v-12H84L84,336z M120,348v-12H96v12H72v12h36v-12H120L120,348z   M180,348h12v-12h-12V348L180,348z M216,348v-12h-12v12H216L216,348z M12,360h12v-12H12V360L12,360z M432,360h12v-12h-12V360  L432,360z M216,360h12v12h-48v24h12v12h-12v36h-12v12h-48v-24h24v-24h12v12h12v-12h-12v-12h-24v12h-24v-24h12v-12h-12v-12h24v-48h12  v-12h12v12h12v12h12v12h-12v12h12v12h12v-12h12v12H216L216,360z M144,336v12h12v-12H144L144,336z M168,384v-12h-36v12H168L168,384z   M72,372h24v84H12v-84H72L72,372z M84,396v-12H24v60h60V396L84,396z M372,384h12v-12h-12V384L372,384z M432,372h-12v12h36v-24h-12  v12H432L432,372z M276,384h-12v12h12V384L276,384z M48,396H36v36h36v-36H48L48,396z M204,396v12h12v-12H204L204,396z M216,420h12  v-12h-12V420L216,420z M264,408v-12h-12v-24h-24v36h24v12h24v-12H264L264,408z M432,420h12v12h12v-24h-36v12H432L432,420z M108,420  v12h12v-12H108L108,420z M276,420v12h12v-12H276L276,420z M336,420v12h-24v12h-12v-12h-12v12h-24v12h60v-12h24v12h36v-12h-12v-12  h-12v-12H336L336,420z M216,432h-12v12h12V432L216,432z M240,432h-12v12h12V432L240,432z M432,444v12h24v-12h-12v-12h-12V444  L432,444z M192,456h12v-12h-24v12H192L192,456z M228,456v-12h-12v12H228L228,456z"/>
+        </symbol>
+
+        <symbol id="wechatIcon" viewBox="-128 -128 1281 1281">
+            <path
+                d="M695.296 346.112c11.776 0 23.552 1.024 34.816 2.048-31.232-146.432-187.904-254.976-366.592-254.976-199.68 0-363.52 136.192-363.52 308.736 0 99.84 54.272 181.76 145.408 245.248l-36.352 109.056L236.032 692.736c45.568 9.216 81.92 18.432 127.488 18.432 11.264 0 22.528-0.512 33.792-1.536-7.168-24.064-11.264-49.664-11.264-76.288 0.512-158.208 136.704-287.232 309.248-287.232zM497.664 240.64c31.232 0 56.32 25.088 56.32 56.32s-25.088 56.32-56.32 56.32-56.32-25.088-56.32-56.32 25.088-56.32 56.32-56.32zM243.2 353.792c-31.232 0-56.32-25.088-56.32-56.32s25.088-56.32 56.32-56.32 56.32 25.088 56.32 56.32-25.088 56.32-56.32 56.32zM1024.512 630.784c0-145.408-145.408-263.68-308.736-263.68-173.056 0-309.248 118.272-309.248 263.68s136.192 263.68 309.248 263.68c36.352 0 72.704-9.216 109.056-18.432l99.84 54.784-27.136-90.624c72.704-54.784 126.976-127.488 126.976-209.408z m-403.456-40.96c-22.016 0-39.936-17.92-39.936-39.936s17.92-39.936 39.936-39.936 39.936 17.92 39.936 39.936-17.92 39.936-39.936 39.936z m199.68 2.56c-22.016 0-39.936-17.92-39.936-39.936s17.92-39.936 39.936-39.936 39.936 17.92 39.936 39.936-17.92 39.936-39.936 39.936z"
+                p-id="2422"></path>
+        </symbol>
+    </defs>
+
+    <g class="html-view">
+
+        <g transform="translate(300,300)">
+            <rect
+                x="0%"
+                y="0%"
+                width="90%"
+                height="50%"
+                class=" anchorPoint_center "
+                rx="12"
+                ry="12"
+                fill="url(#fillGrad)"
+                stroke="url(#strokeGrad)"
+                stroke-width="1"/>
+
+            <g transform="translate(-270,-150)">
+                <rect x="20" y="14" width="12" height="12" rx="6" fill="#FF5F57"/>
+                <rect x="40" y="14" width="12" height="12" rx="6" fill="#FEBC2E"/>
+                <rect x="60" y="14" width="12" height="12" rx="6" fill="#28C840"/>
+            </g>
+
+            <text
+                y="-145"
+                class="anchorPoint_centertop i18n_title_zh"
+                font-size="12"
+                fill="#2a2a2a">微信公众号</text>
+            <text
+                y="-145"
+                class="anchorPoint_centertop i18n_title_en"
+                font-size="12"
+                fill="#2a2a2a">
+                WeChat Official Account</text>
+
+            <use href="#avatarFallback" x="-185" y="-85" width="40" height="40"/>
+            <use href="#avatarImg" x="-185" y="-85" width="40" height="40"/>
+            <text
+                x="-134"
+                y="-50"
+                class="anchorPoint_leftcenter"
+                font-size="15"
+                fill="#1b1b1b">Leizingyiu</text>
+            <text
+                x="-184"
+                y="-0"
+                class="anchorPoint_leftcenter i18n_descirbe_zh"
+                font-size="12"
+                fill="#B2B2B2">设计狮一只</text>
+            <text
+                x="-184"
+                y="-0"
+                class="anchorPoint_leftcenter i18n_descirbe_en"
+                font-size="12"
+                fill="#B2B2B2">A Designer 🦁</text>
+
+            <use href="#wechatQrPath" x="115" y="-87" width="80" height="80"/>
+
+            <use
+                href="#wechatIcon"
+                x="153"
+                y="-52"
+                width="30"
+                height="30"
+                class="anchorPoint_center"
+                stroke="#fff"
+                stroke-width="196"
+                stroke-linejoin="round"/>
+            <use
+                href="#wechatIcon"
+                x="153"
+                y="-52"
+                width="30"
+                height="30"
+                class="anchorPoint_center"
+                stroke="#fff"
+                stroke-width="128"
+                stroke-linejoin="round"/>
+            <use
+                href="#wechatIcon"
+                x="153"
+                y="-52"
+                width="30"
+                height="30"
+                class="anchorPoint_center"
+                stroke="#fff"
+                stroke-width="64"
+                stroke-linejoin="round"/>
+
+            <use
+                href="#wechatIcon"
+                x="153"
+                y="-52"
+                width="30"
+                height="30"
+                class="anchorPoint_center"
+                fill="#69BB64"/>
+
+        </g>
+
+    </g>
+
+    <g class="small-view">
+
+        <use href="#wechatQrPath" x="0" y="0" width="100%" height="100%"/>
+
+        <use
+            href="#wechatIcon"
+            x="250"
+            y="250"
+            width="100"
+            height="100"
+            class="anchorPoint_center"
+            stroke="#fff"
+            stroke-width="196"
+            stroke-linejoin="round"
+            fill="#fff"/>
+        <use
+            href="#wechatIcon"
+            x="260"
+            y="260"
+            width="80"
+            height="80"
+            class="anchorPoint_center"
+            stroke="#fff"
+            stroke-width="196"
+            stroke-linejoin="round"
+            fill="#fff"/>
+        <use
+            href="#wechatIcon"
+            x="275"
+            y="275"
+            width="50"
+            height="50"
+            class="anchorPoint_center"
+            stroke="#fff"
+            stroke-width="196"
+            stroke-linejoin="round"
+            fill="#fff"/>
+        <use
+            href="#wechatIcon"
+            x="250"
+            y="250"
+            width="100"
+            height="100"
+            class="anchorPoint_center"
+            stroke="#fff"
+            stroke-width="96"
+            stroke-linejoin="round"/>
+
+        <use
+            href="#wechatIcon"
+            x="250"
+            y="250"
+            width="100"
+            height="100"
+            class="anchorPoint_center"
+            fill="#69BB64"/>
+
+    </g>
+
+    <script>
+        <![CDATA[
+        const isTop = (window.top === window.self);
+
+        if (isTop) {
+            document
+                .documentElement
+                .classList
+                .add("show-html-view");
+        }
+
+        function applyAnchorPoints() {
+            function calcWithUnit(a, b, c, d) {
+                function parseValue(str) {
+                    var i,
+                        ch;
+                    for (i = 0; i < str.length; i++) {
+                        ch = str.charAt(i);
+                        if ((ch < '0' || ch > '9') && ch !== '.' && ch !== '-') {
+                            break;
+                        }
+                    }
+                    var num = parseFloat(str.substring(0, i));
+                    var unit = str.substring(i);
+                    return {num: num, unit: unit};
+                }
+
+                var pa = parseValue(a);
+                var pb = parseValue(b);
+
+                var resultA = (pa.num * c) + pa.unit;
+                var resultB = (pb.num * d) + pb.unit;
+
+                return {a: resultA, b: resultB};
+            }
+
+            // 查找所有 class 含 "anchorPoint_"
+            var all = document.querySelectorAll('[class*="anchorPoint_"]');
+
+            for (var i = 0; i < all.length; i++) {
+                var el = all[i];
+                var clsList = el.className.baseVal !== undefined
+                    ? el.className.baseVal
+                    : el.className;
+                // 找到 anchorPoint 类型
+                var match = clsList.match(/anchorPoint_(\w+)/);
+                if (!match) 
+                    continue;
+                var type = match[1]; // center / lefttop / rightbottom 等
+
+                // 读取宽高
+                var width = 0,
+                    height = 0;
+                if (el.getBBox) { // svg
+                    var bbox = el.getBBox();
+                    width = bbox.width + "px";
+                    height = bbox.height + "px";
+                } else { // html
+                    width = el.offsetWidth + "px";
+                    height = el.offsetHeight + "px";
+                }
+
+                // 根据 type 确定 c d
+                var c = 0,
+                    d = 0;
+
+                switch (type) {
+                    case "center":
+                        c = -0.5;
+                        d = -0.5;
+                        break;
+                    case "lefttop":
+                    case "topleft":
+                        c = 0;
+                        d = 0;
+                        break;
+                    case "rightbottom":
+                    case "bottomright":
+                        c = 1;
+                        d = 1;
+                        break;
+                    case "topright":
+                    case "righttop":
+                        c = 1;
+                        d = 0;
+                        break;
+                    case "bottomleft":
+                    case "leftbottom":
+                        c = 0;
+                        d = 1;
+                        break;
+                    case "centertop":
+                    case "topcenter":
+                        c = -0.5; // 水平居中
+                        d = 1; // 顶部
+                        break;
+                    case "centerbottom":
+                    case "bottomcenter":
+                        c = -0.5; // 水平居中
+                        d = 0; // 底部
+                        break;
+                    case "leftcenter":
+                    case "centerleft":
+                        c = 0; // 左侧
+                        d = -0.5; // 垂直居中
+                        break;
+                    case "rightcenter":
+                    case "centerright":
+                        c = 1; // 右侧
+                        d = -0.5; // 垂直居中
+                        break;
+                    default:
+                        c = 0;
+                        d = 0; // 默认值，可选
+                }
+
+                // 可以扩展更多 anchorPoint 计算偏移
+                var offset = calcWithUnit(width, height, c, d);
+                var x = offset.a,
+                    y = offset.b;
+
+                // 写入 transform
+                if (el.style) {
+                    el.style.transform = "translate(" + x + "," + y + ")";
+                } else {
+                    el.setAttribute("transform", "translate(" + x + "," + y + ")");
+                }
+            }
+        }
+
+        applyAnchorPoints();
+
+        function applyResizeScale() {
+            svgRoot = document;
+            const allElements = svgRoot.querySelectorAll('[class*="resizeTo_"]');
+
+            allElements.forEach(el => {
+
+                // 从 className 找到 resizeTo_xx_yy
+                const match = el
+                    .className
+                    .baseVal
+                    .match(/resizeTo_(\d+)_([0-9]+)/);
+                if (!match) 
+                    return;
+                
+                const targetWidth = parseFloat(match[1]);
+                const targetHeight = parseFloat(match[2]);
+
+                let origW = null;
+                let origH = null;
+
+                let scaleX = 1;
+                let scaleY = 1;
+                let refEl = el; // 默认直接使用元素本身
+
+                // --------------------- 如果是 <use> ---------------------
+                if (el.tagName === 'use') {
+                    const href = el.getAttribute('href') || el.getAttribute('xlink:href');
+                    if (!href || !href.startsWith('#')) 
+                        return;
+                    
+                    const refId = href.slice(1);
+                    refEl = svgRoot.querySelector(`#${refId}`);
+                    if (!refEl) 
+                        return;
+                    }
+                
+                // --------------------- 根据引用元素类型获取尺寸 ---------------------
+                if (refEl.tagName === 'rect') {
+                    origW = parseFloat(refEl.getAttribute('width'));
+                    origH = parseFloat(refEl.getAttribute('height'));
+
+                } else if (refEl.tagName === 'circle') {
+                    const r = parseFloat(refEl.getAttribute('r'));
+                    origW = origH = 2 * r;
+
+                } else if (refEl.tagName === 'ellipse') {
+                    const rx = parseFloat(refEl.getAttribute('rx'));
+                    const ry = parseFloat(refEl.getAttribute('ry'));
+                    origW = 2 * rx;
+                    origH = 2 * ry;
+
+                } else if (refEl.tagName === 'image') {
+                    origW = parseFloat(refEl.getAttribute('width'));
+                    origH = parseFloat(refEl.getAttribute('height'));
+
+                } else if (refEl.getBBox) {
+                    // fallback：path / g / symbol 等
+                    const bbox = refEl.getBBox();
+                    origW = bbox.width;
+                    origH = bbox.height;
+                }
+
+                if (!origW || !origH) 
+                    return;
+                
+                // --------------------- 计算 scale ---------------------
+                scaleX = targetWidth / origW;
+                scaleY = targetHeight / origH;
+
+                // --------------------- 写入 transform ---------------------
+                const prev = el.getAttribute('transform') || '';
+                const newTransform = `${prev} scale(${scaleX},${scaleY})`.trim();
+                el.setAttribute('transform', newTransform);
+            });
+        }
+
+        applyResizeScale();
+
+        function applyI18n(lang) {
+            'i18n_welcome_en',
+            'i18n_welcome_zh';
+            const browserLang = lang || (navigator.language || navigator.userLanguage || 'en').toLowerCase();
+
+            const currentLang = browserLang.split('-')[0];
+            const elements = document.querySelectorAll('[class*="i18n_"]');
+
+            const groups = new Map();
+
+            elements.forEach(el => {
+                const classList = Array.from(el.classList);
+                const i18nClasses = classList.filter(cls => cls.startsWith('i18n_'));
+
+                for (const cls of i18nClasses) {
+                    const parts = cls.split('_');
+                    if (parts.length !== 3 || parts[0] !== 'i18n') 
+                        continue;
+                    
+                    const name = parts[1];
+                    const lang = parts[2];
+
+                    if (!groups.has(name)) {
+                        groups.set(name, []);
+                    }
+
+                    groups
+                        .get(name)
+                        .push({element: el, lang});
+                }
+            });
+
+            groups.forEach((items, name) => {
+                if (items.length === 1) {
+                    items[0].element.style.display = '';
+                    return;
+                }
+
+                const matchCurrent = items.find(item => item.lang === currentLang);
+                const matchEn = items.find(item => item.lang === 'en');
+
+                const toShow = matchCurrent || matchEn || items[0];
+
+                items.forEach(item => {
+                    item.element.style.display = 'none';
+                });
+
+                toShow.element.style.display = '';
+            });
+        }
+        applyI18n();
+
+        const img = document.getElementById('avatarImg');
+        img.addEventListener('error', function () {
+            this.setAttribute('href', 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42m' +
+                    'NkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=');
+        });
+
+        ]]>
+    </script>
+</svg>
